@@ -1,6 +1,6 @@
 # Perhitungan Nilai Mahasiswa
 Preview:
-https://a-s-wijaya.github.io/uts-kpl/
+https://a-s-wijaya.github.io/uts-kpl/ ||
 https://cheery-quokka-f39bf9.netlify.app
 
 ## Proyek Ujian Tengah Semester mata kuliah Konstruksi Perangkat Lunak.
